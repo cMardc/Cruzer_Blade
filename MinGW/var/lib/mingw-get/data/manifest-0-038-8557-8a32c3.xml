@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-038-8557-8a32c3">
+    <release tarname="gcc-fortran-6.3.0-1-mingw32-bin.tar.xz" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <file path="bin/gfortran.exe" />
+        <file path="bin/mingw32-gfortran.exe" />
+        <file path="libexec/gcc/mingw32/6.3.0/f951.exe" />
+        <file path="lib/gcc/mingw32/6.3.0/libcaf_single.a" />
+        <file path="lib/gcc/mingw32/6.3.0/libgfortran.a" />
+        <file path="lib/gcc/mingw32/6.3.0/libgfortran.dll.a" />
+        <file path="lib/gcc/mingw32/6.3.0/libgfortran.spec" />
+        <dir path="lib/gcc/mingw32/6.3.0/finclude" />
+        <file path="lib/gcc/mingw32/6.3.0/finclude/ieee_exceptions.mod" />
+        <file path="lib/gcc/mingw32/6.3.0/finclude/ieee_features.mod" />
+        <file path="lib/gcc/mingw32/6.3.0/finclude/ieee_arithmetic.mod" />
+    </manifest>
+</package>
