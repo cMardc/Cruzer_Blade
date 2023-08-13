@@ -30,9 +30,13 @@ The Cruzer Blade — Just a  flash drive to humans — abuses this trust to deli
 <h3>Compatibility</h3>
 <h4>Have old dusty code? Integrate it to Cruzer Blade. A game? A software? Or File Viewer? Anything... Everywhere</h4>
 
+![download](https://github.com/cMardc/Cruzer_Blade/assets/130239955/c96ce355-440d-4070-b8dd-3da20d87c186)
+
 
 <h3>Storage And Code</h3>
 <h4>Use like a default USB memory stick, or a dangerous device.</h4>
+
+![disk](https://github.com/cMardc/Cruzer_Blade/assets/130239955/601c23a5-53a8-4cec-96ad-12229225545c)
 
 
 <hr>
