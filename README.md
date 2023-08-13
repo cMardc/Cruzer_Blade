@@ -39,7 +39,7 @@ The Cruzer Blade — Just a  flash drive to humans — abuses this trust to deli
 
 <h2>List Of Functions</h2>
 <h4>There are couple of useful functions for you to use.</h4>
-<img src='assets/functions.png' alt='Functions'>
+<img src='assets/functions.png' alt='Functions' height=600>
 
 <hr>
 <h3>Thanks for selecting us!</h3>
