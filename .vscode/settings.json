@@ -1,8 +1,10 @@
 {
     "cSpell.words": [
+        "BACKDOORS",
         "cruzer",
         "CXSCREEN",
         "CYSCREEN",
+        "EXFILTRATING",
         "HWND",
         "KEYEVENTF",
         "LEFTDOWN",
@@ -14,6 +16,8 @@
         "RIGHTUP",
         "sendback",
         "sendbyte",
+        "textblock",
+        "textblocktransform",
         "userprofile"
     ]
 }

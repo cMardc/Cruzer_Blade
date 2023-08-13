@@ -1,0 +1,25 @@
+
+
+KEYSTROKE INJECTION
+Computers trust humans. Humans use keyboards. So, act like a keyboard.
+
+The Cruzer Blade — Just a  flash drive to humans — abuses this trust to deliver powerful payloads, injecting keystrokes at superhuman speeds.
+
+IMAGINE PLUGGING A SEEMINGLY INNOCENT USB INTO A COMPUTER OR PHONE AND INSTANTLY INSTALLING BACKDOORS, COVERTLY EXFILTRATING DOCUMENTS, CAPTURING CREDENTIALS, OR ANY ACTION LIMITED ONLY BY YOUR CREATIVITY.
+
+DON'T BE SUSPICIOUS. EASILY MASK ATTACKS FOR
+
+DEFENSE EVASION
+MIMIC HUMAN TYPING CADENCE. FILE SYSTEM SPOOFING HIDES LOOT & INJECTION FILES. EVEN DETECT STORAGE ACTIVITY TO DETECT DEVICE ACTIVITY — ALL IN SIMPLE CODE.
+
+PROS:
+    Simplicity: Easy to use
+    C++: High level programming language, integrate everything into USB, doesn't matter what.
+    Compatibility: Insert and run on any USB drives, disks, SD cards and more.
+    Storage and code: Use like a default USB memory stick, or a dangerous device.
+CONS:
+    Compilation: Need a compiler to make program portable
+    OS: Only Available For Windows
+
+
+
