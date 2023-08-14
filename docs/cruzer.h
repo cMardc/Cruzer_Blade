@@ -47,7 +47,7 @@ namespace cruzer {
         SendInput(1, &input, sizeof(INPUT));
     }
 
-/*
+    /*
     * @brief Function to Press (Hold + Release) a key
     * @param virtualKeyCode - Is a code that is key (WORD)
     * @return This function does not return anything
