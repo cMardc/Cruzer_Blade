@@ -1,0 +1,39 @@
+.dropdown-item {
+    color: white;
+}
+
+#usb {
+    width: calc(100vw / 12 * 5);
+    height: calc(0,988835726 * 100vw / 12 * 5);
+}
+
+.feature {
+    border-style: solid;
+    border-color: #464343a2;
+    border-radius: 10px;
+    width: 150px;
+    margin: 10px;
+    padding: 2px;
+}
+
+.center {
+    text-align: center;
+    align-items: center;
+}
+
+.featureImage {
+    text-align: center;
+    border-style: solid;
+    border-color: #464343a2;
+    border-radius: 2px;
+    margin: 10px;
+    padding: 2px;
+    margin-left: 15px;
+    width: 110px;
+}
+
+#darkGround {
+    padding: 20px;
+    background-color: #111111;
+    color: white;
+}

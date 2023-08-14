@@ -5,6 +5,7 @@
         "CXSCREEN",
         "CYSCREEN",
         "EXFILTRATING",
+        "hotplug",
         "HWND",
         "KEYEVENTF",
         "LEFTDOWN",
@@ -19,5 +20,6 @@
         "textblock",
         "textblocktransform",
         "userprofile"
-    ]
+    ],
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc"
 }
